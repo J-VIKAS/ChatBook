@@ -1,0 +1,16 @@
+.container{
+    border: solid;
+    box-shadow: 20px 20px 20px rgb(194, 191, 191);
+    border-color: black;
+    border-width: 2px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    width: 30%;
+    background-color: rgb(241, 241, 241);
+}
+.btn btn-primary{
+    position: fixed;
+}
+
